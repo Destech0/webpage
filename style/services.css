@@ -1,0 +1,29 @@
+body {
+    /* border: 1px solid; */
+}
+p {
+    /* border: 2px solid;  */
+    width: 250px;
+}
+header {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+div {
+    display: flex;
+    align-items: center;
+}
+
+.p-span {
+    color: yellow;
+}
+nav {
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: centern;
+    width: 500px;
+    justify-content: space-around;
+    
+}
+
